@@ -1,0 +1,84 @@
+{
+  "name": "consumer_diagnoseme",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "@sentry/browser": "^5.21.1",
+    "@sentry/react": "^5.20.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "cookie": "^0.4.0",
+    "faker": "^4.1.0",
+    "flutterwave-node-v3": "^1.0.0",
+    "form-serialize": "^0.7.2",
+    "history": "^4.10.1",
+    "imports-loader": "^0.8.0",
+    "lodash": "^4.17.19",
+    "moment": "^2.24.0",
+    "node-sass": "^4.14.1",
+    "postscribe": "^2.0.8",
+    "prop-types": "^15.7.2",
+    "pure-react-carousel": "^1.27.0",
+    "qrcode.react": "^1.0.0",
+    "react": "^16.12.0",
+    "react-alice-carousel": "^1.18.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-bootstrap-sweetalert": "^5.1.9",
+    "react-calendar": "^3.1.0",
+    "react-cookie": "^4.0.3",
+    "react-datepicker": "^2.14.1",
+    "react-dom": "^16.12.0",
+    "react-escape-outside": "^0.1.1",
+    "react-flickity": "^1.0.8",
+    "react-loader-spinner": "^3.1.5",
+    "react-loading-overlay": "^1.0.1",
+    "react-multi-select-component": "^3.0.1",
+    "react-phone-input-2": "^2.12.0",
+    "react-pin-input": "^0.9.0",
+    "react-pure-loaders": "^3.0.1",
+    "react-ravepayment": "^3.0.1",
+    "react-redux": "^7.2.0",
+    "react-responsive": "^8.0.3",
+    "react-router-dom": "^5.1.2",
+    "react-router-hash-link": "^2.0.0",
+    "react-scripts": "3.4.0",
+    "react-sticky-el": "^1.1.1",
+    "react-thunk": "^1.0.0",
+    "react-toastify": "^5.5.0",
+    "redux": "^4.0.5",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-react": "^0.88.2",
+    "typescript": "^3.8.2",
+    "universal-cookie": "^4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@storybook/theming": "^5.3.14"
+  }
+}
